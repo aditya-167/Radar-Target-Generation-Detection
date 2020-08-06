@@ -1,6 +1,5 @@
 # Radar target generation and detection
 
-Final project repo from Radar module of Sensor Fusion Nanodegree (Udacity)
 
 ### Workflow :
 
